@@ -1,0 +1,20 @@
+{
+  "name": "chat-real-time-node",
+  "version": "1.0.0",
+  "description": "(Study) Real time chat with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel-JM/chat-real-time-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel-JM/chat-real-time-node/issues"
+  },
+  "homepage": "https://github.com/Gabriel-JM/chat-real-time-node#readme"
+}
