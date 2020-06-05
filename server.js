@@ -17,4 +17,8 @@ app.use('/', (req, res) => {
   res.render('index.html')
 })
 
+io.on('connection', socket => {
+  console.log(`Socket connectado: ${socket.id}`)
+})
+
 httpServer.listen(3000, console.log('Server running'))
